@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on full-stack web development projects using Next.js, React, Angular, Node with Express, and databases like MySQL, PostgreSQL, and MongoDB.<br>👯 I’m looking to collaborate on challenging full-stack software projects that can broaden my skills and experience<br>🤝 I’m looking for help with open-source projects where I can contribute and learn.<br>🌱  I'm currently deepening my back-end knowledge by learning about NestJS with TypeScript, along with staying updated on the latest trends in software development.<br>💬 Ask me about anything related to full-stack web development. I'm always ready to help and share my knowledge.<br>
 
 
